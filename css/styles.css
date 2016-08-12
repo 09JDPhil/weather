@@ -1,0 +1,24 @@
+body{
+  padding: 15%;
+  color:#000;
+background-size:     cover;              
+    background-repeat:   no-repeat;
+}
+h1{
+  text-align: center;
+  font-size: 5em;
+}
+#weather{
+  text-align:center;
+  font-size:4em
+}
+#temp{
+  background:transparent;
+  border:;
+  color:#000;
+  font-size:.9em;
+  padding-bottom: 2.5%;
+}
+.btn:focus {
+  outline:0 !important;
+}
